@@ -1,0 +1,4 @@
+mastermindlib - Library for performing logic for the game MasterMind
+
+mastermindlib.py	MasterMind Game logic
+mastermindlib-demo.py	VERY basic demon
